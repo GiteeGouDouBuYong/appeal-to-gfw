@@ -22,6 +22,6 @@
 
 # 怎么抵制这些网站？
 
-我们提供 [hosts](Hosts 文件)，将其复制后粘贴到`C:\Windows\System32\drivers\etc\hosts`，即可免受以上网站毒害！
+我们提供 [hosts](Hosts) 文件，将其复制后粘贴到`C:\Windows\System32\drivers\etc\hosts`，即可免受以上网站毒害！
 
 也可以积极向我们提交外国不良网站，争取早日上墙！
